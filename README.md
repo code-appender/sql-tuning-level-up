@@ -8,11 +8,12 @@
 | 2024.05.20 ~ 2024.05.27 | 2장 |  인덱스 기본 |[dlrjs2360](https://github.com/dlrjs2360) |
 | 2024.05.27 ~ 2024.06.03 | 3.1, 3.2장 | 인덱스 튜닝 | [juhee77](https://github.com/juhee77) |
 | 2024.06.03 ~ 2024.06.10 | 3.3, 3.4장 | 인덱스 튜닝 | [YunByungil](https://github.com/YunByungil) |
-| 2024.06.10 ~ 2024.06.17 | 4장 | 조인 튜닝 |[ranunclulus](https://github.com/ranunclulus) |
-| 2024.06.17 ~ 2024.06.24 | 5장 | 소트 튜닝 |[dlrjs2360](https://github.com/dlrjs2360) |
-| 2024.06.24 ~ 2024.07.01 | 6.1, 6.2장 | DML 튜닝 |[juhee77](https://github.com/juhee77) |
-| 2024.07.01 ~ 2024.07.08 | 6.3, 6.4장 | DML 튜닝 |[YunByungil](https://github.com/YunByungil) |
-| 2024.07.08 ~ 2024.07.15 | 7장 | SQL 옵티마이저 |[Huisu](https://github.com/ranunclulus) |
+| 2024.06.10 ~ 2024.06.17 | 1~3장 | review | [ranunclulus](https://github.com/ranunclulus), [dlrjs2360](https://github.com/dlrjs2360), [juhee77](https://github.com/juhee77), [YunByungil](https://github.com/YunByungil)  |
+| 2024.06.17 ~ 2024.06.24 | 4장 | 조인 튜닝 |[ranunclulus](https://github.com/ranunclulus) |
+| 2024.06.24 ~ 2024.07.01 | 5장 | 소트 튜닝 |[dlrjs2360](https://github.com/dlrjs2360) |
+| 2024.07.01 ~ 2024.07.08 | 6.1, 6.2장 | DML 튜닝 |[juhee77](https://github.com/juhee77) |
+| 2024.07.08 ~ 2024.07.15 | 6.3, 6.4장 | DML 튜닝 |[YunByungil](https://github.com/YunByungil) |
+| 2024.07.15 ~ 2024.07.23 | 7장 | SQL 옵티마이저 |[Huisu](https://github.com/ranunclulus) |
 
 #### 스터디 이후 : SQL 개발자/전문가 시헝 응시 
 | 구분  | 접수기간  | 수험표발급 | 시험일    | 사전점수공개 및 재검토 접수 | 결과발표 | 증빙서류 제출기간(전문가) |
